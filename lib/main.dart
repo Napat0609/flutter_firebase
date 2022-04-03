@@ -108,6 +108,7 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headline4,
             ),
             const Text('Hello world'),
+            const Text('Hello world'),
           ],
         ),
       ),
